@@ -1,8 +1,9 @@
 import React from 'react'
 
+
 const ComponenteII = () => {
   return (
-    <div>Mujeres</div>
+    <div></div>
   )
 }
 
