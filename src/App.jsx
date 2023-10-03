@@ -7,8 +7,9 @@ import { useState } from "react"
 
 const App = () => {
 
-
   const [seleccionados, setSeleccionados] = useState (0)
+  console.log(seleccionados)
+
   const name = 'nickclothesInc'
   const productos = ['hombres' , 'mujeres']
   const admin = {

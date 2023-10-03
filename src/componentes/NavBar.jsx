@@ -8,7 +8,12 @@ const ComponenteI = ({productos, admin , name}) => {
 
   return (
     <div>
-      <h1>Hombres</h1>
+      <h1>Categorias</h1>
+      <ul>
+        <li><a href=" ">Remeras</a></li>
+        <li><a href=" ">Pantalones</a></li>
+        <li><a href=" ">Zapattillas</a></li>
+      </ul>
       <h2> {name} </h2>
       {/* <ComponenteI/> */}
       <ComponenteII/>
