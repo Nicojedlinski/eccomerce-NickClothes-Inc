@@ -19,10 +19,10 @@ const App = () => {
   }
   return (
     <>
-      <h1>NickClothes Inc</h1>
+     {/*  <h1>Nickclothes Inc</h1>
       <h2>Cart {seleccionados}</h2>
       <button onClick={()=> setSeleccionados(seleccionados + 1)}>Agregar</button>
-      <button onClick={()=> setSeleccionados(seleccionados - 1)}>ELiminar</button>
+      <button onClick={()=> setSeleccionados(seleccionados - 1)}>ELiminar</button> */}
       <div className="componenteI">
         <ComponenteI name = {name} productos = {productos} admin = {admin}/>
        {/* <ComponenteII/> */}
