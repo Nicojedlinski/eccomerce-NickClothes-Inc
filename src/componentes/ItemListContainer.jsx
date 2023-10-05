@@ -3,7 +3,12 @@ import React from 'react'
 
 const ComponenteII = () => {
   return (
-    <div></div>
+    <>
+      <div>
+        <h2>Bienvenido a mi Eccomerce</h2>
+      </div>
+    </>
+    
   )
 }
 
