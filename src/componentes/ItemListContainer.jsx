@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-const ComponenteII = () => {
+const ItemListContainer = () => {
   return (
     <>
       <div>
@@ -13,4 +13,4 @@ const ComponenteII = () => {
 }
 
 
-export default ComponenteII
+export default ItemListContainer
