@@ -2,8 +2,9 @@ import React from 'react'
 import ComponenteII from './ItemListContainer'
 import {Menu, MenuButton, Portal, MenuList, MenuItem, Flex, Box, Spacer} from '@chakra-ui/react'
 import CartWidget from './CartWidget'
+import ItemListContainer from './ItemListContainer'
 
-const ComponenteI = ({productos, admin , name}) => {
+const NavBar = ({productos, admin , name}) => {
   console.log(productos)
   console.log(admin)
 
@@ -59,9 +60,9 @@ const ComponenteI = ({productos, admin , name}) => {
       </ul> */}
       {/* <h2> {name} </h2> */}
       {/* <ComponenteI/> */}
-      <ComponenteII/>
+      <ItemListContainer/>
     </div>
   )
 }
 
-export default ComponenteI
+export default NavBar
