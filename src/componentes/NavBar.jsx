@@ -18,7 +18,7 @@ const ComponenteI = ({productos, admin , name}) => {
   <Spacer />
   <Box>
   <Menu>
-        <MenuButton>Categorias</MenuButton>
+        <MenuButton>Productos</MenuButton>
         <Portal>
           <MenuList>
           <MenuItem>Remeras</MenuItem>
