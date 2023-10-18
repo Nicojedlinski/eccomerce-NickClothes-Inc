@@ -6,6 +6,8 @@ import { useState } from "react"
 
 import ItemListContainer from "./componentes/ItemListContainer"
 import NavBar from "./componentes/NavBar"
+import Contenido from "./componentes/ContenidoContainer"
+import ContenidoContainer from "./componentes/ContenidoContainer"
 
 
 
@@ -39,6 +41,7 @@ const App = () => {
         <hr />
         <ItemListContainer nombre = {nombre} />
       </div>
+      <ContenidoContainer />
     </>
   )
 }
