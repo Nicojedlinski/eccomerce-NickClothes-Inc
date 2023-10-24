@@ -18,7 +18,7 @@
 ### Contact Me
 <a href="https://www.linkedin.com/in/nicolas-jedlinski-3970a7184/"></a>
 <a href="nicolasjedlinski@gmail.com"></a>  
-
+<br/>
 ![giphy](https://github.com/Nicojedlinski/eccomerce-NickClothes-Inc/assets/111811580/9346a01b-acb7-432f-be8a-0415bdfeb272)
 
 
