@@ -14,12 +14,10 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   <br/>
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-
+🔥🔥🔥
 ### Contact Me
-<a href="https://www.linkedin.com/in/nicolas-jedlinski-3970a7184/"><img alt="LinkedIn"></a>
-<a href="nicolasjedlinski@gmail.com"><img alt="Email"></a>  
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mauro069&label=Profile%20views&color=0e75b6&style=flat" alt="mauro069" /> </p>
+<a href="https://www.linkedin.com/in/nicolas-jedlinski-3970a7184/"></a>
+<a href="nicolasjedlinski@gmail.com"></a>  
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
