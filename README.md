@@ -1,5 +1,3 @@
-# React + Vite
-
 <h1>Hello! I'm Nicolas Jedlinski <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 <h2>Frontend Developer 🎨</h2>
 
@@ -18,8 +16,8 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 ### Contact Me
-<a href="https://www.linkedin.com/in/nicolas-jedlinski-3970a7184/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a> 
-<a href="nicolasjedlinski@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Maurovera069@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+<a href="https://www.linkedin.com/in/nicolas-jedlinski-3970a7184/"><img alt="LinkedIn"></a>
+<a href="nicolasjedlinski@gmail.com"><img alt="Email"></a>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauro069&label=Profile%20views&color=0e75b6&style=flat" alt="mauro069" /> </p>
 
