@@ -22,7 +22,7 @@
 ![giphy](https://github.com/Nicojedlinski/eccomerce-NickClothes-Inc/assets/111811580/9346a01b-acb7-432f-be8a-0415bdfeb272)
 <br/>
 
-![Un gato jugando con una pelota](https://tenor.com/es-US/view/developer-xmooney-alien-code-life-coding-gif-25301196)
+(https://tenor.com/es-US/view/developer-xmooney-alien-code-life-coding-gif-25301196)
 
 
 
