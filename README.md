@@ -20,6 +20,10 @@
 <a href="nicolasjedlinski@gmail.com"></a>  
 <br/>
 ![giphy](https://github.com/Nicojedlinski/eccomerce-NickClothes-Inc/assets/111811580/9346a01b-acb7-432f-be8a-0415bdfeb272)
+<br/>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
+  <img src="https://imgur.com/gallery/FXru6" style="position: absolute; width: 100%; height: 100%;">
+</div>
 
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
