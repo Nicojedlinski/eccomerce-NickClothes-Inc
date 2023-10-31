@@ -22,7 +22,7 @@
 ![giphy](https://github.com/Nicojedlinski/eccomerce-NickClothes-Inc/assets/111811580/9346a01b-acb7-432f-be8a-0415bdfeb272)
 <br/>
 
-<div class="tenor-gif-embed" data-postid="25301196" data-share-method="host" data-aspect-ratio="1.3913" data-width="100%"><a href="https://tenor.com/view/developer-xmooney-alien-code-life-coding-gif-25301196">Developer Xmooney GIF</a>from <a href="https://tenor.com/search/developer-gifs">Developer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="25301196" data-share-method="host" data-aspect-ratio="1.3913" data-width="100%"><a href="https://tenor.com/view/developer-xmooney-alien-code-life-coding-gif-25301196"> <a href="https://tenor.com/search/developer-gifs">
 
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
