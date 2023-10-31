@@ -22,9 +22,7 @@
 ![giphy](https://github.com/Nicojedlinski/eccomerce-NickClothes-Inc/assets/111811580/9346a01b-acb7-432f-be8a-0415bdfeb272)
 <br/>
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
-  <img src="https://tenor.com/es-US/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;">
-</div>
+![giphy] (https://tenor.com/es-US/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647)
 
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
