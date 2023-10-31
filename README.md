@@ -22,7 +22,8 @@
 ![giphy](https://github.com/Nicojedlinski/eccomerce-NickClothes-Inc/assets/111811580/9346a01b-acb7-432f-be8a-0415bdfeb272)
 <br/>
 
-![giphy] (https://tenor.com/es-US/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647)
+![Texto alternativo](https://tenor.com/es-US/view/developer-xmooney-alien-code-life-coding-gif-25301196)
+
 
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
