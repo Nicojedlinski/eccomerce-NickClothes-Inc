@@ -22,7 +22,10 @@
 ![giphy](https://github.com/Nicojedlinski/eccomerce-NickClothes-Inc/assets/111811580/9346a01b-acb7-432f-be8a-0415bdfeb272)
 <br/>
 
-![Texto alternativo](https://tenor.com/es-US/view/developer-xmooney-alien-code-life-coding-gif-25301196)
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
+  <img src="https://tenor.com/es-US/view/developer-xmooney-alien-code-life-coding-gif-25301196" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;">
+</div>
+
 
 
 
